@@ -3,8 +3,7 @@
 
 This a book website that was built using Vite, TypesScript, React, Redux Toolkit, react-hook-form, Vitest and React Testing Library. Google Books was used as the API since it is one of the largest book-related APIs. 
 
-
-
+![Google Books API screenshot 1](https://user-images.githubusercontent.com/62358513/233806043-f97784ca-b9f6-4ab2-a0d0-7d9f819fd459.JPG)
 
 ## Tools and libraries used 
 - React with TypeScript
